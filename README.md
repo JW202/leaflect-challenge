@@ -25,4 +25,4 @@ Create a legend that will provide context for your map data.
 Your visualization should look something like the preceding map.
 
 
-![earthquakemap](img/earthquakemap.png)
+![earthquakemap](static/img/earthquakemap.png)
