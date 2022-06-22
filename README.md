@@ -23,3 +23,6 @@ Include popups that provide additional information about the earthquake when its
 Create a legend that will provide context for your map data.
 
 Your visualization should look something like the preceding map.
+
+
+![earthquakemap](img/earthquakemap.png)
